@@ -52,10 +52,12 @@ Ratings & Reviews
 | PowerPoint | Business Presentation             |
 
 Project Steps
+
 1. Data Loading
 Imported dataset using Python.
 Verified data types and dataset structure.
-2. Exploratory Data Analysis (EDA)
+
+3. Exploratory Data Analysis (EDA)
 Dataset overview
 Summary statistics
 Missing value analysis
@@ -63,13 +65,15 @@ Duplicate detection
 Distribution analysis
 Correlation analysis
 Initial visualizations
-3. Data Cleaning
+
+4. Data Cleaning
 Handled missing values
 Removed duplicates
 Corrected data types
 Standardized categorical values
 Prepared data for analysis
-4. SQL Analysis
+
+5. SQL Analysis
 
 The cleaned dataset was imported into PostgreSQL for advanced querying.
 
@@ -83,6 +87,7 @@ Repeat customer analysis
 Discount effectiveness
 Subscription trends
 Purchase behavior
+
 5. Dashboard Development
 
 An interactive Power BI dashboard was created featuring:
@@ -94,6 +99,7 @@ Product analysis
 Category performance
 Geographic analysis (if applicable)
 Interactive filters and slicers
+
 6. Reporting
 
 A business report was prepared summarizing:
@@ -102,35 +108,31 @@ Key findings
 Business insights
 Recommendations
 Dashboard screenshots
+
 7. Presentation
 A professional PowerPoint presentation was created using the GAKKA (General → Analysis → Key Insights → Knowledge → Action) structure to communicate project findings effectively.
 
+Dashboard Highlights
+📈 Revenue Overview
+👥 Customer Analysis
+🛍 Product Performance
+📊 Sales Trends
+💰 Discount Analysis
+⭐ Customer Ratings
+📦 Category Performance
+🎯 Business KPIs
+Results
+
+This project demonstrates the complete analytics lifecycle by:
+
+Cleaning and preparing raw data
+Performing exploratory data analysis
+Extracting business insights using SQL
+Building an interactive Power BI dashboard
+Presenting findings through a professional report and presentation
+
+The project showcases practical skills in data analysis, visualization, database querying, and business intelligence.
 
 
-
-Data-Analytics-Project/
-│
-├── Dataset/
-│   └── dataset.csv
-│
-├── Python/
-│   ├── data_loading.ipynb
-│   ├── eda.ipynb
-│   └── data_cleaning.ipynb
-│
-├── SQL/
-│   ├── schema.sql
-│   └── analysis_queries.sql
-│
-├── PowerBI/
-│   └── dashboard.pbix
-│
-├── Report/
-│   └── Project_Report.pdf
-│
-├── Presentation/
-│   └── Project_Presentation.pptx
-│
-└── README.md
 
 

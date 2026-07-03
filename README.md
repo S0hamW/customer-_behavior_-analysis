@@ -104,6 +104,10 @@ Recommendations
 Dashboard screenshots
 7. Presentation
 A professional PowerPoint presentation was created using the GAKKA (General → Analysis → Key Insights → Knowledge → Action) structure to communicate project findings effectively.
+
+
+
+
 Data-Analytics-Project/
 │
 ├── Dataset/
